@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PremiereUtilisationD1DataContent
+namespace PremiereUtilisationD1DataContext
 {
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml
@@ -23,6 +23,6 @@ namespace PremiereUtilisationD1DataContent
         public MainWindow()
         {
             InitializeComponent();
-        }
+        }       
     }
 }

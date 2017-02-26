@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace PremiereUtilisationD1DataContent
+namespace PremiereUtilisationD1DataContext
 {
     /// <summary>
     /// Logique d'interaction pour App.xaml

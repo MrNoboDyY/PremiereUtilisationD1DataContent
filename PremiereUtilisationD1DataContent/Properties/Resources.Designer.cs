@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PremiereUtilisationD1DataContent.Properties
+namespace PremiereUtilisationD1DataContext.Properties
 {
 
 

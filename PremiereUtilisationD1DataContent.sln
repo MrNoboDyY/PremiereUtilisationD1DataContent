@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiereUtilisationD1DataContent", "PremiereUtilisationD1DataContent\PremiereUtilisationD1DataContent.csproj", "{26FEE798-9F53-4583-A72B-F2C0D45538F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiereUtilisationD1DataContext", "PremiereUtilisationD1DataContent\PremiereUtilisationD1DataContext.csproj", "{26FEE798-9F53-4583-A72B-F2C0D45538F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
